@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MetadataWriter", "MetadataWriter\MetadataWriter.pyproj", "{B200A6E2-8888-48EC-824F-6C83D73C108C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B200A6E2-8888-48EC-824F-6C83D73C108C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B200A6E2-8888-48EC-824F-6C83D73C108C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6807E74-CD2E-48B9-B2AE-F0EA19CC7774}
+	EndGlobalSection
+EndGlobal
