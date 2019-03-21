@@ -20,6 +20,9 @@ class MetadataWriter():
         self.et.start()
         keys = {self.ws[1][col].value: col for col in range(self.ws.max_column)}
         list_of_fields_used = []
+        keywords = ''
+        comments = ''
+        authors = ''
         for row in range(2, self.ws.max_row):
             folder = self.ws[row][keys['Directory']].value
             filename = self.ws[row][keys['file_name']].value
